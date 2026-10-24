@@ -1,0 +1,4 @@
+[{"id":1,"name":"Mbare Traders Round","amount":10,"freq":"weekly","turn":0,"history":[],
+"members":[{"n":"Chipo","paid":true},{"n":"Farai","paid":false},{"n":"Rudo","paid":true},{"n":"Tapiwa","paid":false}]},
+{"id":2,"name":"Church Mukando","amount":20,"freq":"monthly","turn":1,"history":["R1: Mai Tino received $60.00"],
+"members":[{"n":"Mai Tino","paid":true},{"n":"Sekai","paid":true},{"n":"Baba Joe","paid":false}]}]

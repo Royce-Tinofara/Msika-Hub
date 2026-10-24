@@ -1,0 +1,5 @@
+{"packages":[{"name":"Featured listing","price":"$1 / day","desc":"Top of search and category"},
+{"name":"Homepage banner","price":"$5 / day","desc":"Seen by every visitor"},
+{"name":"Nearby broadcast","price":"$0.05 / click","desc":"Push to buyers in your range"}],
+"campaigns":[{"product":"Cooking oil 2L","type":"Featured listing","status":"Active","views":1240,"clicks":96,"orders":14},
+{"product":"Tomatoes 5kg","type":"Homepage banner","status":"Ended","views":5310,"clicks":210,"orders":31}]}

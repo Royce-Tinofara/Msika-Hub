@@ -1,0 +1,9 @@
+[{"id":1,"sid":1,"name":"Cooking oil 2L","price":4.5,"emoji":"🛢️"},
+{"id":2,"sid":1,"name":"Maize meal 10kg","price":8,"emoji":"🌽"},
+{"id":3,"sid":1,"name":"Airtime bundle","price":2,"emoji":"📱"},
+{"id":4,"sid":2,"name":"Tomatoes 5kg","price":5,"emoji":"🍅"},
+{"id":5,"sid":2,"name":"Fresh greens bundle","price":1.5,"emoji":"🥬"},
+{"id":6,"sid":2,"name":"Sweet potatoes 5kg","price":4,"emoji":"🍠"},
+{"id":7,"sid":3,"name":"Cement 50kg","price":12,"emoji":"🧱"},
+{"id":8,"sid":3,"name":"Paint 5L","price":18,"emoji":"🎨"},
+{"id":9,"sid":3,"name":"Roofing nails 1kg","price":3,"emoji":"🔩"}]
